@@ -28,7 +28,7 @@
       },
       "PREFIX": {
         "description": "The prefix you want to use with the bot.",
-        "value": "!",
+        "value": ";",
         "required": "true"
       }
     }  
